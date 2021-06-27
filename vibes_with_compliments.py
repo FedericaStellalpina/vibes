@@ -1,9 +1,10 @@
+from list_compliment import compliments
 import time
 import random
 
 #List
 
-compliments=['You are so pretty', 'You should be proud of yourself', 'You are enough', 'You are so smart', 'You are awesome!']
+#compliments=['You are so pretty', 'You should be proud of yourself', 'You are enough', 'You are so smart', 'You are awesome!']
 
 #Function
 
